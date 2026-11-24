@@ -1,0 +1,25 @@
+# Python virtual environment
+.venv/
+venv/
+
+# Python generated files
+__pycache__/
+*.pyc
+
+# Secrets and local configuration
+.env
+.env.*
+*.key
+*.pem
+
+# macOS and Windows files
+.DS_Store
+Thumbs.db
+
+# Editor settings
+.vscode/
+.idea/
+.cursor/
+
+# Logs
+*.log
