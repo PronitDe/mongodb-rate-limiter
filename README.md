@@ -8,7 +8,6 @@ It allows each client to make **5 API requests per minute**. After the limit is 
 
 - Python 3.9 or newer
 - MongoDB Community Server, running locally
-- Internet access to install Python packages initially
 
 No sample data needs to be imported. The application creates its database, collection and indexes automatically.
 
